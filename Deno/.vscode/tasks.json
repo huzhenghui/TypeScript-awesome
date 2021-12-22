@@ -1,0 +1,12 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "type": "deno",
+      "command": "run",
+      "args": ["https://deno.land/std/examples/welcome.ts"],
+      "problemMatcher": ["$deno"],
+      "label": "deno: run welcome"
+    }
+  ]
+}
