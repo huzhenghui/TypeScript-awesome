@@ -1,0 +1,6 @@
+{
+  "deno.enable": true,
+  "deno.codeLens.test": true,
+  "deno.codeLens.testArgs": ["--allow-all"],
+  "editor.defaultFormatter": "denoland.vscode-deno"
+}
